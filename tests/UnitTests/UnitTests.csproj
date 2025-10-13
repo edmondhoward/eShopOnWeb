@@ -39,7 +39,4 @@
     <Folder Include="ApplicationCore\Helpers\" />
   </ItemGroup>
 
-<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>      
-<GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
-
 </Project>
